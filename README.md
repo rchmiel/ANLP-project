@@ -1,6 +1,8 @@
 # ANLP-project
 Universität Potsdam - Cognitive Systems - Advanced Natural Language Processing - Final project
 
+Generating subject-based tweets trained on Trump’s writing style
+
 It is possible to run the text generation with provided data. We pre-ran all the code and saved all the cleaned data and important lists as files.
 To generate sentences run the code in text_generation_model.ipynb. Please make sure to have all used third-party modules properly installed and imported.
 

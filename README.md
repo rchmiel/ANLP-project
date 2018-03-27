@@ -26,6 +26,7 @@ data:
 - stanford_tagged_topic_corpus.txt 		    - contains the cleaned and tagged topic sentences stored as lists with tuple pairs of word and                                             tag
 - emission_dict.txt 				              - contains the emission probabilities of every word stored as dictionary
 - wordranking.txt				                  - contains the word rankings for sentence generation
+- style_dict.txt                          - contains words that occur frequently in a certain context
 
 evaluation:
 - evaluation_corpora.pdf		- contains the evaluation of the tagger and the corpora
